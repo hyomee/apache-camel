@@ -1,4 +1,4 @@
- package com.hyomee.carmal.builtercomponent;
+ package com.hyomee.carmal.Folder;
 
 import org.apache.camel.builder.RouteBuilder;
 import org.springframework.stereotype.Component;
