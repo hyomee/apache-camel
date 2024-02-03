@@ -1,13 +1,13 @@
-package com.hyomee.carmal;
+package com.hyomee.camel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CarmalApplication {
+public class CamelApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CarmalApplication.class, args);
+		SpringApplication.run(CamelApplication.class, args);
 	}
 
 }
