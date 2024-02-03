@@ -9,8 +9,7 @@ public class FolderBuilder extends RouteBuilder {
     @Override
     public void configure() throws Exception {
         from("file:C://Project//folder/source")
-        .to("file:C://Project//folder/target");
-        
+        .to("file:C://Project//folder/target");        
     }
     
 }
